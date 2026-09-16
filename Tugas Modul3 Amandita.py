@@ -1,5 +1,5 @@
 # Program Biodata Diri Sederhana
-
+# Amandita Isyana Putri_F5212510017
 def tampilkan_biodata():
     print("=" * 40)
     print("              BIODATA DIRI              ")
